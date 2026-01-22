@@ -1,0 +1,35 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "Master Card Print",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "Master Card Print"
+  },
+  "ui5AppDetails": {
+    "appId": "zmastercardprint"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_8D5EF758CC0EEC9C7A579981891491FA7A130880_TM",
+    "semanticObject": "zmastercardprint",
+    "action": "display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_8D5EF758CC0EEC9C7A579981891491FA7A130880_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Master Card Print",
+        "subtitle": "PP"
+      }
+    }
+  ]
+}

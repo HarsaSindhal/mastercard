@@ -1,0 +1,24 @@
+CLASS zcl_deleterecord DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+
+    INTERFACES if_oo_adt_classrun .
+  PROTECTED SECTION.
+  PRIVATE SECTION.
+ENDCLASS.
+
+
+
+CLASS ZCL_DELETERECORD IMPLEMENTATION.
+
+
+  METHOD if_oo_adt_classrun~main.
+
+  DELETE FROM zpc_headermaster WHERE zpno = 1300001154 .
+
+
+  ENDMETHOD.
+ENDCLASS.

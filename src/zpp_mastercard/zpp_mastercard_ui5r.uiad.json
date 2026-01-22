@@ -1,0 +1,35 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "A Fiori application.",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "Master Card"
+  },
+  "ui5AppDetails": {
+    "appId": "zmastercard.zmastercard"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_BC346DF12949346DC076917119880484E79C097F_TM",
+    "semanticObject": "zmastercard",
+    "action": "Display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_BC346DF12949346DC076917119880484E79C097F_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Master Card",
+        "subtitle": "PP"
+      }
+    }
+  ]
+}

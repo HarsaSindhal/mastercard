@@ -1,0 +1,35 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "Set Number Creation",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "Set Number Creation"
+  },
+  "ui5AppDetails": {
+    "appId": "ysetnumbercreation"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_4AE63E175216D6003B815CAA0A44B7092993A7B4_TM",
+    "semanticObject": "ZSETNUMBERCREATION",
+    "action": "display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_4AE63E175216D6003B815CAA0A44B7092993A7B4_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Set Number Creation",
+        "subtitle": "PP"
+      }
+    }
+  ]
+}

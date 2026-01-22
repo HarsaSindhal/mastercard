@@ -1,0 +1,35 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "Loom Card Print",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "Loom Card Print"
+  },
+  "ui5AppDetails": {
+    "appId": "zloomcardprint"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_2E13B8B2BD38188E49589DA856D13EA338F96A2E_TM",
+    "semanticObject": "zloomcardprint",
+    "action": "display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_2E13B8B2BD38188E49589DA856D13EA338F96A2E_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Loom Card Print",
+        "subtitle": "PP"
+      }
+    }
+  ]
+}
